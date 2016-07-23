@@ -1,0 +1,11 @@
+h1 {
+	font-style: italic;
+	color: blue;
+}
+
+ul {
+	list-style-type: square;
+}
+body {
+	background-color: yellow;
+}
